@@ -1,0 +1,15 @@
+.flag{
+  display: flex;
+  flex-direction: row;
+  width: 700px;
+  height: 150px;
+  border: 1px solid grey;
+  border-radius: 5px;
+  justify-content: space-between;
+  align-items: center;
+  margin:5px 0;
+}
+img{
+  height: 150px;
+  width: auto;
+}
